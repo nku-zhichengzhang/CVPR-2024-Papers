@@ -3460,7 +3460,7 @@
 * [Distilled Datamodel with Reverse Gradient Matching](https://export.arxiv.org/abs/2404.14006)
 * [Towards Calibrated Multi-label Deep Neural Networks](https://openaccess.thecvf.com/content/CVPR2024/papers/Cheng_Towards_Calibrated_Multi-label_Deep_Neural_Networks_CVPR_2024_paper.pdf)
 * [BEHAVIOR Vision Suite: Customizable Dataset Generation via Simulation](https://arxiv.org/abs/2405.09546)
-* [MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MART_Masked_Affective_RepresenTation_Learning_via_Masked_Temporal_Distribution_Distillation_CVPR_2024_paper.pdf)
+* [MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MART_Masked_Affective_RepresenTation_Learning_via_Masked_Temporal_Distribution_Distillation_CVPR_2024_paper.pdf)<br>:star:[code](https://github.com/nku-zhichengzhang/MART)<br>:house:[project](https://zzcheng.top/MART/)
 * [Gradient-based Parameter Selection for Efficient Fine-Tuning](https://arxiv.org/abs/2312.10136)
 * [In2SET: Intra-Inter Similarity Exploiting Transformer for Dual-Camera Compressive Hyperspectral Imaging](https://arxiv.org/abs/2312.13319)
 * [ChAda-ViT : Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images](https://arxiv.org/abs/2311.15264)
